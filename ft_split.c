@@ -97,6 +97,5 @@ char	**ft_split(char const *str, char c)
 	if (temp == NULL)
 		return (NULL);
 	ft_tempsplit(temp, str, c, words);
-	temp[words] = 0;
 	return (temp);
 }
