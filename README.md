@@ -5,7 +5,7 @@
 
 Mandatory part : 100/100
 
-Bonus : 20/100
+Bonus : 20/25
 
 ### How to use it
 
