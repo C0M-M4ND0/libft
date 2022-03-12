@@ -9,8 +9,15 @@ Bonus : 20/25
 
 ### How to use it
 
-Using ``make`` will create the object file  and the Program name .
+Using ``make`` will create the object file  and the Program name on mandatory part.
+```
+make
+```
+Using ``make bonus`` will create the object file  and the Program name on mandatory part and bonus part.
 
+```
+make bonus
+```
 You can add Your main to use This functions
 
 ##### Don't forget to report to me the Errors in the project and also your suggestions about it .... to make it better 😉
