@@ -1,7 +1,7 @@
 # Libft
-# This project is about a C library.
+## This project is about a C library.
   see the ``en.subject.pdf``
-## Final grade : 125/100
+### Final grade : 125/100
 
 Mandatory part : 100/100
 
